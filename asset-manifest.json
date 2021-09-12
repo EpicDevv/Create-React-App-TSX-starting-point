@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Create-React-App-TSX-starting-point/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Create-React-App-TSX-starting-point/static/js/main.31ba4e00.chunk.js",
+    "main.js.map": "/Create-React-App-TSX-starting-point/static/js/main.31ba4e00.chunk.js.map",
+    "runtime-main.js": "/Create-React-App-TSX-starting-point/static/js/runtime-main.f3e319ff.js",
+    "runtime-main.js.map": "/Create-React-App-TSX-starting-point/static/js/runtime-main.f3e319ff.js.map",
+    "static/js/2.f63793a9.chunk.js": "/Create-React-App-TSX-starting-point/static/js/2.f63793a9.chunk.js",
+    "static/js/2.f63793a9.chunk.js.map": "/Create-React-App-TSX-starting-point/static/js/2.f63793a9.chunk.js.map",
+    "index.html": "/Create-React-App-TSX-starting-point/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Create-React-App-TSX-starting-point/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f63793a9.chunk.js.LICENSE.txt": "/Create-React-App-TSX-starting-point/static/js/2.f63793a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3e319ff.js",
+    "static/js/2.f63793a9.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.31ba4e00.chunk.js"
+  ]
+}
